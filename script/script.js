@@ -124,7 +124,7 @@ function selectProduct(prdctName = '0', color = 'Blue') {
     scndImg.innerHTML = ""
     selectedColor.forEach(imgSrc => {
         const img = document.createElement("img");
-        img.src = imgSrc
+        img.src = imgSrc;
         scndImg.appendChild(img)
         img.addEventListener("click", () => {
             mainImg.src = imgSrc;
