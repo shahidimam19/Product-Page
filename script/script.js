@@ -19,39 +19,39 @@ const products = [
         sizeChart: "#",
         colorOptions: {
             Blue: [
-                "/img/Tshirt/Blue/1.jpg",
-                "/img/Tshirt/Blue/2.jpg",
-                "/img/Tshirt/Blue/3.jpg",
-                "/img/Tshirt/Blue/4.jpg",
-                "/img/Tshirt/Blue/5.jpg"
+                "img/Tshirt/Blue/1.jpg",
+                "img/Tshirt/Blue/2.jpg",
+                "img/Tshirt/Blue/3.jpg",
+                "img/Tshirt/Blue/4.jpg",
+                "img/Tshirt/Blue/5.jpg"
             ],
             Red: [
-                "/img/Tshirt/Red/1.jpg",
-                "/img/Tshirt/Red/2.jpg",
-                "/img/Tshirt/Red/3.jpg",
-                "/img/Tshirt/Red/4.jpg",
-                "/img/Tshirt/Red/5.jpg"
+                "img/Tshirt/Red/1.jpg",
+                "img/Tshirt/Red/2.jpg",
+                "img/Tshirt/Red/3.jpg",
+                "img/Tshirt/Red/4.jpg",
+                "img/Tshirt/Red/5.jpg"
             ],
             P_Blue: [
-                "/img/Tshirt/P_Blue/1.jpg",
-                "/img/Tshirt/P_Blue/2.jpg",
-                "/img/Tshirt/P_Blue/3.jpg",
-                "/img/Tshirt/P_Blue/4.jpg",
-                "/img/Tshirt/P_Blue/5.jpg"
+                "img/Tshirt/P_Blue/1.jpg",
+                "img/Tshirt/P_Blue/2.jpg",
+                "img/Tshirt/P_Blue/3.jpg",
+                "img/Tshirt/P_Blue/4.jpg",
+                "img/Tshirt/P_Blue/5.jpg"
             ],
             Green: [
-                "/img/Tshirt/Green/1.jpg",
-                "/img/Tshirt/Green/2.jpg",
-                "/img/Tshirt/Green/3.jpg",
-                "/img/Tshirt/Green/4.jpg",
-                "/img/Tshirt/Green/5.jpg"
+                "img/Tshirt/Green/1.jpg",
+                "img/Tshirt/Green/2.jpg",
+                "img/Tshirt/Green/3.jpg",
+                "img/Tshirt/Green/4.jpg",
+                "img/Tshirt/Green/5.jpg"
             ],
             Black: [
-                "/img/Tshirt/Black/1.jpg",
-                "/img/Tshirt/Black/2.jpg",
-                "/img/Tshirt/Black/3.jpg",
-                "/img/Tshirt/Black/4.jpg",
-                "/img/Tshirt/Black/5.jpg"
+                "img/Tshirt/Black/1.jpg",
+                "img/Tshirt/Black/2.jpg",
+                "img/Tshirt/Black/3.jpg",
+                "img/Tshirt/Black/4.jpg",
+                "img/Tshirt/Black/5.jpg"
             ]
         }
     },
@@ -63,44 +63,44 @@ const products = [
         sizeChart: "#",
         colorOptions: {
             Aqua: [
-                "/img/Shirt/Aqua/1.jpg",
-                "/img/Shirt/Aqua/2.jpg",
-                "/img/Shirt/Aqua/3.jpg",
-                "/img/Shirt/Aqua/4.jpg",
-                "/img/Shirt/Aqua/5.jpg"
+                "img/Shirt/Aqua/1.jpg",
+                "img/Shirt/Aqua/2.jpg",
+                "img/Shirt/Aqua/3.jpg",
+                "img/Shirt/Aqua/4.jpg",
+                "img/Shirt/Aqua/5.jpg"
             ],
             Beige: [
-                "/img/Shirt/Beige/1.jpg",
-                "/img/Shirt/Beige/2.jpg",
-                "/img/Shirt/Beige/3.jpg",
-                "/img/Shirt/Beige/4.jpg"
+                "img/Shirt/Beige/1.jpg",
+                "img/Shirt/Beige/2.jpg",
+                "img/Shirt/Beige/3.jpg",
+                "img/Shirt/Beige/4.jpg"
             ],
             Black: [
-                "/img/Shirt/Black/1.jpg",
-                "/img/Shirt/Black/2.jpg",
-                "/img/Shirt/Black/3.jpg",
-                "/img/Shirt/Black/4.jpg",
-                "/img/Shirt/Black/5.jpg"
+                "img/Shirt/Black/1.jpg",
+                "img/Shirt/Black/2.jpg",
+                "img/Shirt/Black/3.jpg",
+                "img/Shirt/Black/4.jpg",
+                "img/Shirt/Black/5.jpg"
             ],
             Green: [
-                "/img/Shirt/Green/1.jpg",
-                "/img/Shirt/Green/2.jpg",
-                "/img/Shirt/Green/3.jpg",
-                "/img/Shirt/Green/4.jpg"
+                "img/Shirt/Green/1.jpg",
+                "img/Shirt/Green/2.jpg",
+                "img/Shirt/Green/3.jpg",
+                "img/Shirt/Green/4.jpg"
             ],
             Maroon: [
-                "/img/Shirt/Maroon/1.jpg",
-                "/img/Shirt/Maroon/2.jpg",
-                "/img/Shirt/Maroon/3.jpg",
-                "/img/Shirt/Maroon/4.jpg",
-                "/img/Shirt/Maroon/5.jpg"
+                "img/Shirt/Maroon/1.jpg",
+                "img/Shirt/Maroon/2.jpg",
+                "img/Shirt/Maroon/3.jpg",
+                "img/Shirt/Maroon/4.jpg",
+                "img/Shirt/Maroon/5.jpg"
             ],
             Teal: [
-                "/img/Shirt/Teal/1.jpg",
-                "/img/Shirt/Teal/2.jpg",
-                "/img/Shirt/Teal/3.jpg",
-                "/img/Shirt/Teal/4.jpg",
-                "/img/Shirt/Teal/5.jpg"
+                "img/Shirt/Teal/1.jpg",
+                "img/Shirt/Teal/2.jpg",
+                "img/Shirt/Teal/3.jpg",
+                "img/Shirt/Teal/4.jpg",
+                "img/Shirt/Teal/5.jpg"
             ]
         }
     }
